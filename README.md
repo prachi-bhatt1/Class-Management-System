@@ -17,7 +17,6 @@ Specific task Group Member-2
 7) Display all the students who have passed all the subjects.
 8) Display all the students who have Highest marks in DM in comparison to their individual marks in other subjects,
 9) Display all the students who have scored less than 60% in all the subjects together.
-
 10)Display all the students who have scored more than 75% in three subjects.
 
 Specific task Group Member-3
